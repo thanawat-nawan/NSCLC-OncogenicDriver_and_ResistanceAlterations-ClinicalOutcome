@@ -1,0 +1,3 @@
+# Export data from REDCap via API
+python-dotenv==1.1.1
+PyCap==2.7.0
