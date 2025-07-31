@@ -1,5 +1,9 @@
 # Coding IDE directory
 .idea
 
+# pycache
+__pycache__/
+
 # Hidden data
 Data/
+Objective_2/Export PDF/
